@@ -11,3 +11,8 @@ to do: need manually sort out images with vehicle interior and background car im
 edit script to scrape complete database, not just first to pages.
 
 https://drive.google.com/file/d/1lgikPRLH_Xvte7GqUuZmYZcq9hBKZse3/view?usp=sharing
+
+inspired by:
+https://github.com/faezetta/VMMRdb
+and:
+mmlab.ie.cuhk.edu.hk/datasets/comp_cars/
