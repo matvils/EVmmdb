@@ -15,4 +15,4 @@ https://drive.google.com/file/d/1lgikPRLH_Xvte7GqUuZmYZcq9hBKZse3/view?usp=shari
 inspired by:
 https://github.com/faezetta/VMMRdb
 and:
-mmlab.ie.cuhk.edu.hk/datasets/comp_cars/
+http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/
